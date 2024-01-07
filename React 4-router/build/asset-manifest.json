@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20f4c5c3.css",
+    "main.js": "/static/js/main.fea26b65.js",
+    "static/media/datascience.PNG": "/static/media/datascience.fa9591d301683e351d71.PNG",
+    "static/media/fullstack.PNG": "/static/media/fullstack.8fd0d5a5d420289f3e07.PNG",
+    "static/media/career.PNG": "/static/media/career.bb062f0bacbf0dad21d4.PNG",
+    "static/media/all.PNG": "/static/media/all.6b9c2083947359c08cf3.PNG",
+    "static/media/cypersecurity.PNG": "/static/media/cypersecurity.8b28548fb05779eabfc7.PNG",
+    "index.html": "/index.html",
+    "main.20f4c5c3.css.map": "/static/css/main.20f4c5c3.css.map",
+    "main.fea26b65.js.map": "/static/js/main.fea26b65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20f4c5c3.css",
+    "static/js/main.fea26b65.js"
+  ]
+}
